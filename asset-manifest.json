@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Regalo_Elian/static/css/main.f6a6e8db.css",
+    "main.js": "/Regalo_Elian/static/js/main.bf250d7c.js",
+    "static/js/453.b6a3ecb9.chunk.js": "/Regalo_Elian/static/js/453.b6a3ecb9.chunk.js",
+    "index.html": "/Regalo_Elian/index.html",
+    "main.f6a6e8db.css.map": "/Regalo_Elian/static/css/main.f6a6e8db.css.map",
+    "main.bf250d7c.js.map": "/Regalo_Elian/static/js/main.bf250d7c.js.map",
+    "453.b6a3ecb9.chunk.js.map": "/Regalo_Elian/static/js/453.b6a3ecb9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6a6e8db.css",
+    "static/js/main.bf250d7c.js"
+  ]
+}
