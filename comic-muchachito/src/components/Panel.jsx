@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+// import React, { useEffect, useState } from "react";
 import TextBubble from "./TextBubble";
 import "../css/Panel.css";
 
@@ -17,6 +17,9 @@ function Panel({ panelData, isActive, onFocus }) {
   // );
 
   const { image, description, bubbles, gridArea } = panelData;
+  console.log(image, description, bubbles, gridArea);
+  console.log("-----aa");
+  console.log(description);
 
   return (
     <div className={`comic-panel ${isActive ? "active": ""}`} style={{ gridArea }}

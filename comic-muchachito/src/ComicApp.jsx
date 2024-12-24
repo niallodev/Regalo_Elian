@@ -35,7 +35,7 @@ function ComicApp() {
           description: "",
           gridArea: "a",
           bubbles: [
-            { author:"Sukuna", 
+            { author:"Ryōmen Sukuna", 
               text: "Estamos aquí porque alguien muy especial quiso enviarte un mensaje. Ese alguien es Nicolás.", 
               type: "rect", 
               position: { top: "1%", left: "71%" }, 
@@ -48,7 +48,7 @@ function ComicApp() {
           description: "",
           gridArea: "b",
           bubbles: [
-            { author:"Sukuna", 
+            { author:"Ryōmen Sukuna", 
               text: "Antes de comenzar Elian, Nicolas quiere saber si te acuerdas a donde querian ir vestido asi 😏, bueno sigamos con la historia.",
               type: "rect", 
               position: { top: "15%", left: "65%" }, 
@@ -103,13 +103,13 @@ function ComicApp() {
           description: "",
           gridArea: "a",
           bubbles: [
-            { author:"Killua", 
+            { author:"Killua Zoldyck", 
               text: "Nicolás siempre habla de cómo eres alguien en quien puede confiar.", 
               type: "rect", 
               position: { top: "-5%", left: "5%" }, 
               buble: {bgColor: "black", bottomOffset: "0%", bottomTransformY:"100%", bottomTransformX:"0%", leftOffset: "75%", clipPath: "polygon(0% 0%, 90% 0%, 100% 100%)",}},
             
-            { author:"Gon", 
+            { author:"Gon Freecss", 
               text: "Dice que tienes esa habilidad especial de escuchar, de estar ahí cuando más se necesita.", 
               type: "rect", 
               position: { top: "-5%", left: "75%" }, 
@@ -130,13 +130,13 @@ function ComicApp() {
           description: "",
           gridArea: "a",
           bubbles: [
-            { author:"Desconocido", 
+            { author:"Renjiro Saito", 
               text: "Recuerda los días cuando las cosas no iban bien y tú lo ayudaste a ver el lado positivo.", 
               type: "rect", 
               position: { top: "-5%", left: "-10%" }, 
               buble: {bgColor: "black", bottomOffset: "0%", bottomTransformY:"100%", bottomTransformX:"0%", leftOffset: "80%", clipPath: "polygon(0% 0%, 90% 0%, 0% 100%)",}},
             
-            { author:"Desconocido", 
+            { author:"Takaru Hinomura", 
               text: "Nicolás nunca olvidará cómo le diste ánimo cuando más lo necesitaba.", 
               type: "rect", 
               position: { top: "-5%", left: "75%" }, 
@@ -162,13 +162,13 @@ function ComicApp() {
           description: "",
           gridArea: "c",
           bubbles: [
-            { author:"Sukuna", 
+            { author:"Ryōmen Sukuna", 
               text: "Eso es lo que hace que esta historia sea especial.", 
               type: "rect", 
               position: { top: "-5%", left: "62%" }, 
               buble: {bgColor: "black", bottomOffset: "0%", bottomTransformY:"100%", bottomTransformX:"0%", leftOffset: "10%", clipPath: "polygon(0% 0%, 90% 0%, 0% 100%)",}},
             
-            { author:"Sukuna", 
+            { author:"Ryōmen Sukuna", 
               text: "No se trata solo de momentos grandiosos, sino de los pequeños gestos que significan el mundo para alguien.", 
               type: "rect", 
               position: { top: "40%", left: "62%" }, 
@@ -189,13 +189,13 @@ function ComicApp() {
           description: "",
           gridArea: "a",
           bubbles: [
-            { author:"Sasuke", 
+            { author:"Sasuke Uchiha", 
               text: "Elian, a veces no nos damos cuenta del impacto que tenemos en la vida de los demás.", 
               type: "rect", 
               position: { top: "-15%", left: "-5%" }, 
               buble: {bgColor: "black", bottomOffset: "0%", bottomTransformY:"100%", bottomTransformX:"0%", leftOffset: "15%", clipPath: "polygon(0% 0%, 90% 0%, 100% 100%)",}},
             
-            { author:"Naruto", 
+            { author:"Naruto Uzumaki", 
               text: "Pero estamos seguro que para Nicolás, tú eres un ejemplo de lo que significa ser un verdadero amigo.", 
               type: "rect", 
               position: { top: "-15%", left: "75%" }, 
@@ -208,7 +208,7 @@ function ComicApp() {
           description: "",
           gridArea: "b",
           bubbles: [
-            { author:"Itadori", 
+            { author:"Yuji Itadori", 
               text: "Has estado con el en los momentos que el más a necesito sentir el cariño de un amigo.", 
               type: "rect", 
               position: { top: "-5%", left: "70%" }, 
@@ -222,13 +222,13 @@ function ComicApp() {
           description: "",
           gridArea: "c",
           bubbles: [
-            { author:"Megumi", 
+            { author:"Megumi Fushiguro", 
               text: "En momentos en el que ha estado a punto de caer al avismo.", 
               type: "rect", 
               position: { top: "-5%", left: "-5%" }, 
               buble: {bgColor: "black", bottomOffset: "0%", bottomTransformY:"100%", bottomTransformX:"0%", leftOffset: "70%", clipPath: "polygon(0% 0%, 90% 0%, 0% 100%)",}},
             
-            { author:"Itadori", 
+            { author:"Yuji Itadori", 
               text: "Con tus locuras, chistes o pesqueños gestos que has tenido con el.", 
               type: "rect", 
               position: { top: "95%", left: "50%" }, 
@@ -249,7 +249,7 @@ function ComicApp() {
           description: "",
           gridArea: "a",
           bubbles: [
-            { author:"Nobara", 
+            { author:"Nobara Kugisaki", 
               text: "Por ejemplo un detalle que el tiene presente en todo momento y que nos conto que se aguanto las ganas de llorar de la nostalgia porque nadie habia hecho con el, ese gesto que tu hiciste para algunos puede ser una tonteria pero para el es irremplasable ese recuerto, sabes que es....", 
               type: "rect", 
               position: { top: "0%", left: "65%" }, 
@@ -270,7 +270,7 @@ function ComicApp() {
           description: "",
           gridArea: "a",
           bubbles: [
-            { author:"Nobara", 
+            { author:"Nobara Kugisaki", 
               text: "No hagas trampa...", 
               type: "rect", 
               position: { top: "75%", left: "70%" }, 
@@ -291,7 +291,7 @@ function ComicApp() {
           description: "",
           gridArea: "a",
           bubbles: [
-            { author:"Nobara", 
+            { author:"Nobara Kugisaki", 
               text: "Eres un tamposo...", 
               type: "rect", 
               position: { top: "90%", left: "55%" }, 
@@ -304,7 +304,7 @@ function ComicApp() {
           description: "",
           gridArea: "b",
           bubbles: [
-            { author:"Nobara", 
+            { author:"Nobara Kugisaki", 
               text: "Pero bueno ya te digo cual es...", 
               type: "rect", 
               position: { top: "85%", left: "55%" }, 
@@ -325,13 +325,13 @@ function ComicApp() {
           description: "",
           gridArea: "a",
           bubbles: [
-            { author:"Desconocido", 
+            { author:"Shōyō Hinata", 
               text: "Fue cuando le diste el postre de sweet coffee.", 
               type: "rect", 
               position: { top: "75%", left: "45%" }, 
               buble: {bgColor: "black", bottomOffset: "100%", bottomTransformY:"0%", bottomTransformX:"0%", leftOffset: "10%", clipPath: "polygon(0% 0%, 10% 100%, 100% 100%)",}},  
             
-            { author:"Desconocido", 
+            { author:"Tobio Kageyama", 
               text: "Es verdad que para algunos eso puede ser insignificante pero para el signico mucho.", 
               type: "rect", 
               position: { top: "20%", left: "70%" }, 
@@ -344,7 +344,7 @@ function ComicApp() {
           description: "",
           gridArea: "b",
           bubbles: [
-            { author:"Desconocido", 
+            { author:"Mafuyu Sato", 
               text: "Muchas de las personas que el consideraba como amigos e incluso algunos de la propia familia de el, nunca hicieron ese gesto que tu hiciste o ni siquiera se tomaban la molestia de preguntar como estas.", 
               type: "rect", 
               position: { top: "40%", left: "75%" }, 
@@ -357,7 +357,7 @@ function ComicApp() {
           description: "",
           gridArea: "c",
           bubbles: [
-            { author:"Desconocido", 
+            { author:"Akira Tendou", 
               text: "Nicolás no solo valora lo que haces, sino quién eres. Alguien confiable, solidario y lleno de energía positiva.", 
               type: "rect", 
               position: { top: "70%", left: "50%" }, 
@@ -378,7 +378,7 @@ function ComicApp() {
           description: "",
           gridArea: "a",
           bubbles: [
-            { author:"Desconocido", 
+            { author:"Kesshouban", 
               text: "Por eso estamos aquí, para decirte algo que tal vez no escuches lo suficiente: eres importante, Elian. Para Nicolás, y para quienes tienen la suerte de conocerte.", 
               type: "rect", 
               position: { top: "70%", left: "30%" }, 
@@ -391,7 +391,7 @@ function ComicApp() {
           description: "",
           gridArea: "b",
           bubbles: [
-            { author:"Desconocido", 
+            { author:"Neutrophil 1146", 
               text: "La amistad es un regalo que crece con el tiempo. Nicolás me pidió que te recordara lo valiosa que es la tuya para él.", 
               type: "rect", 
               position: { top: "40%", left: "60%" }, 
@@ -404,7 +404,7 @@ function ComicApp() {
           description: "",
           gridArea: "c",
           bubbles: [
-            { author:"Desconocido", 
+            { author:"Tanjiro Kamado", 
               text: "Así que, cuando termines este cómic, solo quiero que hagas una cosa: sigue siendo tú, porque eso es lo que hace especial esta historia.", 
               type: "rect", 
               position: { top: "40%", left: "75%" }, 
@@ -425,7 +425,7 @@ function ComicApp() {
           description: "",
           gridArea: "a",
           bubbles: [
-            { author:"Desconocido", 
+            { author:"Neutrophil 1146", 
               text: "Y recuerda, Elian: siempre hay alguien que valora cada momento que compartes.", 
               type: "rect", 
               position: { top: "85%", left: "50%" }, 
@@ -438,7 +438,7 @@ function ComicApp() {
           description: "",
           gridArea: "b",
           bubbles: [
-            { author:"Nobara", 
+            { author:"Satoru Gojo", 
               text: "Ese alguien es Nicolás.", 
               type: "rect", 
               position: { top: "80%", left: "50%" }, 
@@ -451,7 +451,7 @@ function ComicApp() {
           description: "",
           gridArea: "c",
           bubbles: [
-            { author:"Nobara", 
+            { author:"Monkey D. Luffy", 
               text: "Porque la verdadera amistad no termina. Solo se transforma en recuerdos que llevamos con nosotros para siempre.", 
               type: "rect", 
               position: { top: "50%", left: "60%" }, 
@@ -478,25 +478,25 @@ function ComicApp() {
               position: { top: "40%", left: "10%" }, 
               buble: {bgColor: "black", bottomOffset: "0%", bottomTransformY:"20%", bottomTransformX:"-100%", leftOffset: "0%", clipPath: "polygon(0% 0%, 100% 10%, 100% 50%)",}},  
             
-            { author:"Desconocido", 
+            { author:"Monkey D. Luffy", 
               text: "Que vivan los amigos.", 
               type: "rect", 
               position: { top: "85%", left: "75%" }, 
               buble: {bgColor: "black", bottomOffset: "0%", bottomTransformY:"20%", bottomTransformX:"-100%", leftOffset: "0%", clipPath: "polygon(0% 0%, 100% 10%, 100% 50%)",}},  
             
-            { author:"Desconocido", 
+            { author:"Shōyō Hinata", 
               text: "Que vivan los amigos.", 
               type: "rect", 
               position: { top: "90%", left: "15%" }, 
               buble: {bgColor: "black", bottomOffset: "0%", bottomTransformY:"20%", bottomTransformX:"-100%", leftOffset: "0%", clipPath: "polygon(0% 0%, 100% 10%, 100% 50%)",}},  
             
-            { author:"Desconocido", 
+            { author:"Izuku Midoriya", 
               text: "Que vivan los amigos.", 
               type: "rect", 
               position: { top: "40%", left: "65%" }, 
               buble: {bgColor: "black", bottomOffset: "0%", bottomTransformY:"20%", bottomTransformX:"-100%", leftOffset: "0%", clipPath: "polygon(0% 0%, 100% 10%, 100% 50%)",}},  
             
-            { author:"Desconocido", 
+            { author:"Emma", 
               text: "Que vivan los amigos.", 
               type: "rect", 
               position: { top: "0%", left: "15%" }, 

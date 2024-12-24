@@ -1,8 +1,20 @@
+/* Asegura que html y body ocupen todo el alto disponible */
+html, body {
+  height: 100%;  /* Hace que ambos elementos ocupen el 100% de la altura */
+  margin: 0;     /* Elimina márgenes predeterminados */
+  padding: 0;    /* Elimina el padding predeterminado */
+}
+
 .App {
   text-align: center;
   min-width: 350px;
   /* min-width: 475px; */
   /* color: red; */
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  /* overflow: hidden; */
 }
 
 .App-logo {

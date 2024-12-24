@@ -84,7 +84,7 @@ function Header({ title, onPrevious, onNext, currentPage, totalPages, onGoToPage
                   alt="Portada Capítulo 1"
                   className="chapter-image"
                 />
-                <h3 className="chapter-title">Capítulo 1: Introducción</h3>
+                <h3 className="chapter-title">Capítulo 1: Aventuras Épicas</h3>
               </div>
               {/* Agrega más capítulos aquí */}
             </div>
@@ -100,9 +100,7 @@ function Header({ title, onPrevious, onNext, currentPage, totalPages, onGoToPage
           <div className="modal-content">
             <h2>Información</h2>
             <p>
-              Este cómic fue desarrollado por Nicolás Alexander Loor Bazurto. Es
-              un proyecto en desarrollo para mostrar habilidades técnicas y como 
-              regalo para un amigo.
+              Este cómic, titulado "Aventuras Épicas", es un homenaje a los momentos inolvidables que hemos compartido. Cada página refleja la amistad, las risas y las locuras que nos hacen únicos. Gracias por ser parte de estas historias y por inspirar este pequeño regalo que viene directo del corazón. ¡Por más aventuras juntos!
             </p>
             <button className="close-button" onClick={closeModal}>
               Cerrar

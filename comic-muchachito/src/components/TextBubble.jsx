@@ -2,23 +2,32 @@ import React from "react";
 import "../css/TextBubble.css";
 
 function TextBubble({ bubbleData }) {
-  // const { text, position } = bubbleData;
   
-
-  
-    /* border: 2px solid black; */
-    // clip-path: polygon(
-    //   0% 0%, /* Punto superior izquierda */
-    //   90% 0%, /* Punto superior derecho */
-    //   100% 100% /* Punto inferior derecho */
-    // );
-    // bottom: -35px;
-    // left: 120px;
-  // }
-
-  // console.log(bubbleData);
-
-  const nombreColor = [["Nicolás", "green"],["Elian", "blue"],["Snoopy", "orange"]]
+  const nombreColor = [
+    ["Snoopy", "orange"],           // Divertido, amigable y cálido.
+    ["Ryōmen Sukuna", "red"],       // Poderoso, peligroso y lleno de pasión.
+    ["Asta", "green"],              // Determinado y lleno de vida, como el verde.
+    ["Killua Zoldyck", "blue"],     // Calmado, calculador, y eléctrico.
+    ["Gon Freecss", "goldenrod"],      // Aventurero, enérgico y brillante.
+    ["Renjiro Saito", "goldenrod"],    // Relajado y positivo, como el sol.
+    ["Takaru Hinomura", "orange"],  // Audaz, extrovertido y carismático.
+    ["Sasuke Uchiha", "darkblue"],  // Misterioso, serio y fuerte.
+    ["Naruto Uzumaki", "orange"],   // Optimista, lleno de energía y brillo.
+    ["Yuji Itadori", "red"],        // Apasionado y lleno de vitalidad.
+    ["Megumi Fushiguro", "darkgreen"], // Calmado y estratégico.
+    ["Nobara Kugisaki", "palevioletred"],    // Fuerte, decidida, con estilo único.
+    ["Shōyō Hinata", "orange"],     // Brillante, enérgico y lleno de vida.
+    ["Tobio Kageyama", "blue"],     // Determinado, serio y enfocado.
+    ["Mafuyu Sato", "lightskyblue"],   // Tranquilo, suave y lleno de sensibilidad.
+    ["Akira Tendou", "red"],        // Rebelde y lleno de determinación.
+    ["Kesshouban", " rgb(248, 201, 112)"],        // Inocente, puro y lleno de energía positiva.
+    ["Neutrophil 1146", "gray"],    // Fuerte, protector y neutral.
+    ["Tanjiro Kamado", "green"],    // Amable, resiliente y en equilibrio.
+    ["Satoru Gojo", "white"],       // Poderoso, brillante y fuera de lo común.
+    ["Monkey D. Luffy", "red"],     // Aventurero, apasionado y lleno de fuego.
+    ["Izuku Midoriya", "green"],    // Determinado, humilde y lleno de esperanza.
+    ["Emma", "goldenrod"]              // Líder, optimista y con espíritu protector.
+  ]
   // Buscar el color correspondiente al autor
   const authorColor = nombreColor.find(
     (item) => item[0] === bubbleData.author
@@ -68,3 +77,4 @@ function TextBubble({ bubbleData }) {
 }
 
 export default TextBubble;
+//! 70
